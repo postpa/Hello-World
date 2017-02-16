@@ -1,3 +1,3 @@
 # Hello-World
 
-This is Paul and I am learning the basics, and I mean basics, of GitHub.
+This is Paul and I am learning the basics, and I do mean "the basics", of GitHub.
